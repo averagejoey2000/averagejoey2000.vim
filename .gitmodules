@@ -67,3 +67,6 @@
 [submodule "bundle/vison"]
 	path = bundle/vison
 	url = https://github.com/Quramy/vison.git
+[submodule "bundle/vim-markdown-enhancements.git"]
+	path = bundle/vim-markdown-enhancements.git
+	url = https://github.com/mattly/vim-markdown-enhancements.git
