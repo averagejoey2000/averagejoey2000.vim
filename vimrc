@@ -79,3 +79,5 @@ nmap ]d <Plug>DittoMore                " Show the next matches
 nmap [d <Plug>DittoLess                " Show the previous matches
 
 let g:pencil#wrapModeDefault = 'soft'   " default is 'hard'
+setlocal fo+=aw
+nnoremap <leader>x ZZ
