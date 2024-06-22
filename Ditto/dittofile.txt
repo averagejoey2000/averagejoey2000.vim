@@ -11,3 +11,10 @@ text
 Measures
 radios
 XXXXXXXXXX
+https
+aspx
+navy
+SitePages
+disa
+NIPR
+OPREP
