@@ -29,11 +29,13 @@ let g:lexical#thesaurus = ['~/.vim/thesaurus/mthesaur.txt',]
 syntax on               " turn syntax highlighting on by default
 filetype on             " detect type of file
 filetype plugin indent on      " load indent file for specific file type
+colorscheme dracula
 
 set t_RV=               " http://bugs.debian.org/608242, http://groups.google.com/group/vim_dev/browse_thread/thread/9770ea844cec3282
 let g:ycm_global_ycm_extra_conf = "~/.vim/.ycm_extra_conf.py"
 set encoding=utf-8
-let g:airline_theme='violet'
+let g:airline_theme='dracula'
+" let g:airline_theme='violet'
 let g:airline#extenstions#tabline#enabled = 1
 let g:tex_flavor = 'latex'
 if !exists('g:ycm_semantic_triggers')

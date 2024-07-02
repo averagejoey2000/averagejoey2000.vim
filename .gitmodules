@@ -70,3 +70,12 @@
 [submodule "bundle/vim-markdown-enhancements.git"]
 	path = bundle/vim-markdown-enhancements.git
 	url = https://github.com/mattly/vim-markdown-enhancements.git
+[submodule "/home/averagejoey2000/.vim/bundle/vim-commentary"]
+	path = /home/averagejoey2000/.vim/bundle/vim-commentary
+	url = https://github.com/tpope/vim-commentary.git
+[submodule "/home/averagejoey2000/.vim/bundle/vim-tmux"]
+	path = /home/averagejoey2000/.vim/bundle/vim-tmux
+	url = https://github.com/tmux-plugins/vim-tmux.git
+[submodule "bundle/dracula"]
+	path = bundle/dracula
+	url = git@github.com:dracula/vim.git
