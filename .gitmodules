@@ -1,6 +1,3 @@
-[submodule "bundle/Nvim-R"]
-	path = bundle/Nvim-R
-	url = https://github.com/jalvesaq/Nvim-R.git
 [submodule "bundle/YouCompleteMe"]
 	path = bundle/YouCompleteMe
 	url = https://github.com/ycm-core/YouCompleteMe.git
