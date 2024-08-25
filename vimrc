@@ -84,3 +84,5 @@ nmap [d <Plug>DittoLess                " Show the previous matches
 let g:pencil#wrapModeDefault = 'soft'   " default is 'hard'
 setlocal fo+=aw
 nnoremap <leader>x ZZ
+nnoremap <leader>h <Esc>:call EasyMode()<CR>
+nnoremap <leader>H <Esc>:call HardMode()<CR>
